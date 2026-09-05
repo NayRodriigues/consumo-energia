@@ -7,6 +7,11 @@ O programa solicita o **nome do aparelho**,**potência em watts** e o **tempo de
 O consumo mensal é calculado utilizando a seguinte fórmula:
 consumo mensal = (potência × horas de uso diário × 30) / 1000
 
+## 🐍 Linguagem utilizada
+
+  Python
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
